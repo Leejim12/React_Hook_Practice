@@ -1,0 +1,78 @@
+.rank{
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: red;
+  color: #ffffff;
+  justify-content: center;
+  display: inline-flex;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+}
+
+.movieNm{
+  align-items: center;
+  width: 20px;
+  border-radius: 5px;
+  justify-content: center;
+  
+}
+
+h1{
+  text-align:center;
+  background-color: aquamarine;
+  color: white;
+  /* height: 0px; */
+}
+
+.mvLi{
+  text-align: center;
+}
+
+div{
+  text-align: center;
+}
+
+/* ul{
+  list-style: none;
+  text-align:left;
+  width: 200px;
+  margin: 20px;
+} */
+li{
+  list-style: none;
+  float:left;
+}
+
+/* h1{
+  text-align: center;
+  background-color: black;
+  color:white;
+} */
+
+
+
+/* .mvLiV{
+  display: inline-flex;
+  align-items: center;
+  padding : 5px;
+  width : 200px;
+  padding-left: 5px;
+} */
+.box {
+  color: rgb(107, 64, 10);
+  background-color: rgba(252, 246, 246, 0.983);
+  width: 600px;
+  padding: 20px;
+  display: flex;
+  border: 3px outset black;
+  margin:20px;
+  border-radius: 0.8rem;
+  /* align-content: center; */
+  /* text-align: center; */
+
+}
+
+.span{
+  text-align: center;
+}
